@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan2199&label=Profile%20views&color=0e75b6&style=flat" alt="gagan2199" /> </p>
 
-- Gmail ✉: **gagank2199@gmail.com**
+- Gmail ✉ : **gagank2199@gmail.com**
 
 - Resume Link: [Click here](https://drive.google.com/file/d/10TOg62tkVQnEa9BMzG3HAcGCs8uBc39J/view?usp=sharing)
 
